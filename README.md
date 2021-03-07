@@ -18,3 +18,7 @@ Five new desireable functionalities:
 -COVID-19 safety score
 
 -COVID-19 alerts
+
+
+
+<img src="Screen Shot 2021-03-07 at 10.13.31.png"  width="200" height="400" />
