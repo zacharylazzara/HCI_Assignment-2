@@ -21,4 +21,4 @@ Five new desireable functionalities:
 
 
 
-<img src="Screen Shot 2021-03-07 at 10.13.31.png"  width="200" height="400" />
+<img src="assignment2 screenshot.png"/>
