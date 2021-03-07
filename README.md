@@ -6,6 +6,7 @@ Video: https://youtu.be/omegDdlWrbE
 Project: https://www.figma.com/file/99h34GQIFyo26QxmXLccUJ/Assignment-2?node-id=0%3A1
 
 
+
 Five new desireable functionalities:
 
 -COVID-19 checklist
@@ -14,4 +15,6 @@ Five new desireable functionalities:
 
 -Community activities
 
+-COVID-19 safety score
 
+-COVID-19 alerts
