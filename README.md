@@ -9,3 +9,7 @@ Project: https://www.figma.com/file/99h34GQIFyo26QxmXLccUJ/Assignment-2?node-id=
 Five new desireable functionalities:
 -[x] COVID-19 checklist
 -[ ] In-app shopping (grocery, services, etc)
+
+
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
